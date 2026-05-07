@@ -132,10 +132,3 @@ pip install -r requirements.txt
 
 3. Run the notebook
 
----
-
-## 👩‍💻 Author
-
-Amany Thabet  
-Faculty of Computers and Information  
-Interested in Artificial Intelligence & Machine Learning
